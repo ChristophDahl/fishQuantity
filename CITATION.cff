@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "FishQuantity: zebrafish shoal-size choice and stimulus-control analysis (MATLAB)"
+type: software
+authors:
+  - family-names: Cheng
+    given-names: Hsin-En
+  - family-names: Dahl
+    given-names: Christoph D.
+date-released: 2026-02-03
+license: MIT
+repository-code: "https://github.com/<YOUR-ORG-OR-USER>/<YOUR-REPO>"
+keywords:
+  - zebrafish
+  - Danio rerio
+  - shoaling
+  - numerosity
+  - behavioural analysis
+  - MATLAB
+  - mixed-effects models
+  - stimulus metrics
